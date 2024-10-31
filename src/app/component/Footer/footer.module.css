@@ -1,0 +1,13 @@
+
+
+.footer{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    padding: 1 em;
+    width: 100%;
+    bottom: 0%;
+}
